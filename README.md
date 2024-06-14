@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samuravykh
+- 👋 Hi, I’m Sergey Muravykh
 - 👨🏻‍💻 I'm a Data Analyst at Wlidberries tech
 - 🌱 I’m currently learning Python and algorithms
 - 📫 telegram: @samuravykh
