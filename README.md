@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sergey Muravykh
-- 👨🏻‍💻 I'm a Data Analyst/DI-Developer at Wlidberries tech
+- 👨🏻‍💻 I'm a Data Analyst/BI-Developer at Wlidberries tech
 - 🌱 I’m currently learning Python and algorithms
 - 📫 telegram: @samuravykh
 - ⚡ Fun fact: I prefer outdoor activities
